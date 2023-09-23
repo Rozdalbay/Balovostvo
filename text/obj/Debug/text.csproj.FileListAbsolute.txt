@@ -1,0 +1,375 @@
+C:\Users\Lenovo\source\repos\text\text\bin\Debug\text.exe.config
+C:\Users\Lenovo\source\repos\text\text\bin\Debug\text.exe
+C:\Users\Lenovo\source\repos\text\text\bin\Debug\text.pdb
+C:\Users\Lenovo\source\repos\text\text\obj\Debug\text.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\text\text\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\source\repos\text\text\obj\Debug\App.g.cs
+C:\Users\Lenovo\source\repos\text\text\obj\Debug\text_MarkupCompile.cache
+C:\Users\Lenovo\source\repos\text\text\obj\Debug\text_MarkupCompile.lref
+C:\Users\Lenovo\source\repos\text\text\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\source\repos\text\text\obj\Debug\text.g.resources
+C:\Users\Lenovo\source\repos\text\text\obj\Debug\text.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\text\text\obj\Debug\text.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\text\text\obj\Debug\text.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\text\text\obj\Debug\text.exe
+C:\Users\Lenovo\source\repos\text\text\obj\Debug\text.pdb
+C:\Users\Учителя\Desktop\Новая папка\text\text\bin\Debug\text.exe.config
+C:\Users\Учителя\Desktop\Новая папка\text\text\bin\Debug\text.exe
+C:\Users\Учителя\Desktop\Новая папка\text\text\bin\Debug\text.pdb
+C:\Users\Учителя\Desktop\Новая папка\text\text\obj\Debug\text.csprojAssemblyReference.cache
+C:\Users\Учителя\Desktop\Новая папка\text\text\obj\Debug\MainWindow.g.cs
+C:\Users\Учителя\Desktop\Новая папка\text\text\obj\Debug\App.g.cs
+C:\Users\Учителя\Desktop\Новая папка\text\text\obj\Debug\text_MarkupCompile.cache
+C:\Users\Учителя\Desktop\Новая папка\text\text\obj\Debug\text_MarkupCompile.lref
+C:\Users\Учителя\Desktop\Новая папка\text\text\obj\Debug\MainWindow.baml
+C:\Users\Учителя\Desktop\Новая папка\text\text\obj\Debug\text.g.resources
+C:\Users\Учителя\Desktop\Новая папка\text\text\obj\Debug\text.Properties.Resources.resources
+C:\Users\Учителя\Desktop\Новая папка\text\text\obj\Debug\text.csproj.GenerateResource.cache
+C:\Users\Учителя\Desktop\Новая папка\text\text\obj\Debug\text.csproj.CoreCompileInputs.cache
+C:\Users\Учителя\Desktop\Новая папка\text\text\obj\Debug\text.exe
+C:\Users\Учителя\Desktop\Новая папка\text\text\obj\Debug\text.pdb
+C:\Users\Учителя\Desktop\Новая папка\text\text\obj\Debug\Galaxy_S10.g.cs
+C:\Users\Учителя\Desktop\Новая папка\text\text\obj\Debug\Galaxy_S10.baml
+C:\Users\Учителя\Desktop\Новая папка\text\text\obj\Debug\Galaxy_S20.g.cs
+C:\Users\Учителя\Desktop\Новая папка\text\text\obj\Debug\Galaxy_S20.baml
+C:\Users\Учителя\Desktop\Новая папка\text\text\obj\Debug\Galaxy_S21.g.cs
+C:\Users\Учителя\Desktop\Новая папка\text\text\obj\Debug\Galaxy_S21.baml
+C:\Users\admin\Desktop\ывапролдж\text\bin\Debug\text.exe.config
+C:\Users\admin\Desktop\ывапролдж\text\bin\Debug\text.exe
+C:\Users\admin\Desktop\ывапролдж\text\bin\Debug\text.pdb
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\text.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\Galaxy_S10.g.cs
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\Galaxy_S20.g.cs
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\Galaxy_S21.g.cs
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\text_MarkupCompile.cache
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\text_MarkupCompile.lref
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\Galaxy_S10.baml
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\Galaxy_S20.baml
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\Galaxy_S21.baml
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\text.g.resources
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\text.Properties.Resources.resources
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\text.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\text.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\text.exe
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\text.pdb
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\iPhone_11.g.cs
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\iPhone_12.g.cs
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\iPhone_XR.g.cs
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\iPhone_11.baml
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\iPhone_12.baml
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\iPhone_XR.baml
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\Huawei_P30_Pro 6.g.cs
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\Huawei_P40_Lite_E_NFC.g.cs
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\Huawei_P_smart.g.cs
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\Huawei_P30_Pro 6.baml
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\Huawei_P40_Lite_E_NFC.baml
+C:\Users\admin\Desktop\ывапролдж\text\obj\Debug\Huawei_P_smart.baml
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\bin\Debug\text.exe.config
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\bin\Debug\text.exe
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\bin\Debug\text.pdb
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\text.csprojAssemblyReference.cache
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\Galaxy_S10.g.cs
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\Galaxy_S20.g.cs
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\Galaxy_S21.g.cs
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\Huawei_P30_Pro 6.g.cs
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\Huawei_P40_Lite_E_NFC.g.cs
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\Huawei_P_smart.g.cs
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\iPhone_11.g.cs
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\iPhone_12.g.cs
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\iPhone_XR.g.cs
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\MainWindow.g.cs
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\App.g.cs
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\text_MarkupCompile.cache
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\text_MarkupCompile.lref
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\Galaxy_S10.baml
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\Galaxy_S20.baml
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\Galaxy_S21.baml
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\Huawei_P30_Pro 6.baml
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\Huawei_P40_Lite_E_NFC.baml
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\Huawei_P_smart.baml
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\iPhone_11.baml
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\iPhone_12.baml
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\iPhone_XR.baml
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\MainWindow.baml
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\text.g.resources
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\text.Properties.Resources.resources
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\text.csproj.GenerateResource.cache
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\text.csproj.CoreCompileInputs.cache
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\text.exe
+C:\Users\Учителя\Desktop\Новая папка\ывапролдж\text\obj\Debug\text.pdb
+C:\Users\admin\Desktop\Новая папка\Диплом\text\bin\Debug\text.exe.config
+C:\Users\admin\Desktop\Новая папка\Диплом\text\bin\Debug\text.exe
+C:\Users\admin\Desktop\Новая папка\Диплом\text\bin\Debug\text.pdb
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\text.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\Galaxy_S10.g.cs
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\Galaxy_S20.g.cs
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\Galaxy_S21.g.cs
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\Huawei_P30_Pro 6.g.cs
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\Huawei_P40_Lite_E_NFC.g.cs
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\Huawei_P_smart.g.cs
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\iPhone_11.g.cs
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\iPhone_12.g.cs
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\iPhone_XR.g.cs
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\text_MarkupCompile.cache
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\text_MarkupCompile.lref
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\Galaxy_S10.baml
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\Galaxy_S20.baml
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\Galaxy_S21.baml
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\Huawei_P30_Pro 6.baml
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\Huawei_P40_Lite_E_NFC.baml
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\Huawei_P_smart.baml
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\iPhone_11.baml
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\iPhone_12.baml
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\iPhone_XR.baml
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\text.g.resources
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\text.Properties.Resources.resources
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\text.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\text.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\text.exe
+C:\Users\admin\Desktop\Новая папка\Диплом\text\obj\Debug\text.pdb
+C:\Users\Учителя\Desktop\Диплом\text\bin\Debug\text.exe.config
+C:\Users\Учителя\Desktop\Диплом\text\bin\Debug\text.exe
+C:\Users\Учителя\Desktop\Диплом\text\bin\Debug\text.pdb
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\text.csprojAssemblyReference.cache
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\Galaxy_S10.g.cs
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\Galaxy_S20.g.cs
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\Galaxy_S21.g.cs
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\Huawei_P30_Pro 6.g.cs
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\Huawei_P_smart.g.cs
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\iPhone_11.g.cs
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\iPhone_12.g.cs
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\iPhone_XR.g.cs
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\MainWindow.g.cs
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\App.g.cs
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\text_MarkupCompile.cache
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\text_MarkupCompile.lref
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\Galaxy_S10.baml
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\Galaxy_S20.baml
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\Galaxy_S21.baml
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\Huawei_P30_Pro 6.baml
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\Huawei_P_smart.baml
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\iPhone_11.baml
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\iPhone_12.baml
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\iPhone_XR.baml
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\MainWindow.baml
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\text.g.resources
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\text.Properties.Resources.resources
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\text.csproj.GenerateResource.cache
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\text.csproj.CoreCompileInputs.cache
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\text.exe
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\text.pdb
+C:\Users\Учителя\Desktop\zx\text\bin\Debug\text.exe.config
+C:\Users\Учителя\Desktop\zx\text\bin\Debug\text.exe
+C:\Users\Учителя\Desktop\zx\text\bin\Debug\text.pdb
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\text.csprojAssemblyReference.cache
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\Galaxy_S10.g.cs
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\Galaxy_S20.g.cs
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\Galaxy_S21.g.cs
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\Huawei_P30_Pro 6.g.cs
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\Huawei_P40_Lite_E_NFC.g.cs
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\Huawei_P_smart.g.cs
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\iPhone_11.g.cs
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\iPhone_12.g.cs
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\iPhone_XR.g.cs
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\MainWindow.g.cs
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\App.g.cs
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\text_MarkupCompile.cache
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\text_MarkupCompile.lref
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\Galaxy_S10.baml
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\Galaxy_S20.baml
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\Galaxy_S21.baml
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\Huawei_P30_Pro 6.baml
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\Huawei_P40_Lite_E_NFC.baml
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\Huawei_P_smart.baml
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\iPhone_11.baml
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\iPhone_12.baml
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\iPhone_XR.baml
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\MainWindow.baml
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\text.g.resources
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\text.Properties.Resources.resources
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\text.csproj.GenerateResource.cache
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\text.csproj.CoreCompileInputs.cache
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\text.exe
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\text.pdb
+C:\Users\Учителя\Desktop\zx\text\obj\Debug\Parser.g.cs
+C:\Users\Учителя\Desktop\Диплом\text\bin\Debug\AngleSharp.dll
+C:\Users\Учителя\Desktop\Диплом\text\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Учителя\Desktop\Диплом\text\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Учителя\Desktop\Диплом\text\bin\Debug\AngleSharp.xml
+C:\Users\Учителя\Desktop\Диплом\text\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\text.csproj.CopyComplete
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\Huawei_P40.g.cs
+C:\Users\Учителя\Desktop\Диплом\text\obj\Debug\Huawei_P40.baml
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\text.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\Galaxy_S10.g.cs
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\Galaxy_S20.g.cs
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\Galaxy_S21.g.cs
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\Huawei_P40.g.cs
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\Huawei_P_smart.g.cs
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\Huawei_Y8P.g.cs
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\iPhone_11.g.cs
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\iPhone_12.g.cs
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\iPhone_XR.g.cs
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\text_MarkupCompile.cache
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\text_MarkupCompile.lref
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\text.exe
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\text.pdb
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\bin\Debug\text.exe.config
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\bin\Debug\text.exe
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\bin\Debug\text.pdb
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\bin\Debug\AngleSharp.dll
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\bin\Debug\AngleSharp.xml
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\Galaxy_S10.baml
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\Galaxy_S20.baml
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\Galaxy_S21.baml
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\Huawei_P40.baml
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\Huawei_P_smart.baml
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\Huawei_Y8P.baml
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\iPhone_11.baml
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\iPhone_12.baml
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\iPhone_XR.baml
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\text.g.resources
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\text.Properties.Resources.resources
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\text.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\text.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Новая папка (3)\Диплом\text\obj\Debug\text.csproj.CopyComplete
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\bin\Debug\text.exe.config
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\bin\Debug\text.exe
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\bin\Debug\text.pdb
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\bin\Debug\AngleSharp.dll
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\bin\Debug\AngleSharp.xml
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\text.csprojAssemblyReference.cache
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\Galaxy_S10.g.cs
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\Galaxy_S20.g.cs
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\Galaxy_S21.g.cs
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\Huawei_P40.g.cs
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\Huawei_P_smart.g.cs
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\Huawei_Y8P.g.cs
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\iPhone_11.g.cs
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\iPhone_12.g.cs
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\iPhone_XR.g.cs
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\MainWindow.g.cs
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\App.g.cs
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\text_MarkupCompile.cache
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\text_MarkupCompile.lref
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\Galaxy_S10.baml
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\Galaxy_S20.baml
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\Galaxy_S21.baml
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\Huawei_P40.baml
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\Huawei_P_smart.baml
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\Huawei_Y8P.baml
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\iPhone_11.baml
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\iPhone_12.baml
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\iPhone_XR.baml
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\MainWindow.baml
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\text.g.resources
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\text.Properties.Resources.resources
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\text.csproj.GenerateResource.cache
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\text.csproj.CoreCompileInputs.cache
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\text.csproj.CopyComplete
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\text.exe
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\text.pdb
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\bin\Debug\Price1.accdb
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\text_Content.g.cs
+C:\Users\Учителя\Desktop\Новая папка (3)\Диплом\text\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\bin\Debug\Price1.accdb
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\bin\Debug\Price123456.accdb
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\bin\Debug\text.exe.config
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\bin\Debug\text.exe
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\bin\Debug\text.pdb
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\bin\Debug\AngleSharp.dll
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\bin\Debug\AngleSharp.xml
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\text.csprojAssemblyReference.cache
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\Galaxy_S10.g.cs
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\Galaxy_S20.g.cs
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\Galaxy_S21.g.cs
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\Huawei_P40.g.cs
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\Huawei_P_smart.g.cs
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\Huawei_Y8P.g.cs
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\iPhone_11.g.cs
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\iPhone_12.g.cs
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\iPhone_XR.g.cs
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\MainWindow.g.cs
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\App.g.cs
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\text_Content.g.cs
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\text_MarkupCompile.cache
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\text_MarkupCompile.lref
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\Galaxy_S10.baml
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\Galaxy_S20.baml
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\Galaxy_S21.baml
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\Huawei_P40.baml
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\Huawei_P_smart.baml
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\Huawei_Y8P.baml
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\iPhone_11.baml
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\iPhone_12.baml
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\iPhone_XR.baml
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\MainWindow.baml
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\text.g.resources
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\text.Properties.Resources.resources
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\text.csproj.GenerateResource.cache
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\text.csproj.CoreCompileInputs.cache
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\text.csproj.CopyComplete
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\text.exe
+C:\Users\Учителя\Desktop\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\text.pdb
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\bin\Debug\Price1.accdb
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\bin\Debug\Price123456.accdb
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\bin\Debug\text.exe.config
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\bin\Debug\text.exe
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\bin\Debug\text.pdb
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\bin\Debug\AngleSharp.dll
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\bin\Debug\AngleSharp.xml
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\text.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\Galaxy_S10.g.cs
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\Galaxy_S20.g.cs
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\Galaxy_S21.g.cs
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\Huawei_P40.g.cs
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\Huawei_P_smart.g.cs
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\Huawei_Y8P.g.cs
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\iPhone_11.g.cs
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\iPhone_12.g.cs
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\iPhone_XR.g.cs
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\text_Content.g.cs
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\text_MarkupCompile.cache
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\text_MarkupCompile.lref
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\Galaxy_S10.baml
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\Galaxy_S20.baml
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\Galaxy_S21.baml
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\Huawei_P40.baml
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\Huawei_P_smart.baml
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\Huawei_Y8P.baml
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\iPhone_11.baml
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\iPhone_12.baml
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\iPhone_XR.baml
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\text.g.resources
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\text.Properties.Resources.resources
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\text.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\text.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\text.csproj.CopyComplete
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\text.exe
+C:\Users\Admin\Desktop\Новая папка (4)\Новая папка (5)\Новая папка (3)\Диплом\text\obj\Debug\text.pdb

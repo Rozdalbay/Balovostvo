@@ -1,0 +1,46 @@
+﻿<Window x:Class="text.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:text"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="601.814" Width="531.196" Background="Gray">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="410*"/>
+            <ColumnDefinition Width="113*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel HorizontalAlignment="Left" Height="551" Margin="10,10,0,0" VerticalAlignment="Top" Width="180">
+            <Button x:Name="telefon" Height="40" Width="180" Content="Телефоны" Click="telefon_Click"/>
+
+        </StackPanel>
+
+        <StackPanel Name="Models" Height="551" Margin="212,10,18,0" VerticalAlignment="Top" Width="180">
+            <Button Content="Samsung" Visibility="Hidden" x:Name="models_button" Height="40" Width="180" Click="models_button_Click" />
+            <Button Content="iPhone" Visibility="Hidden" x:Name="models_button2" Height="40" Width="180" Click="models_button2_Click"/>
+            <Button Content="Huawei" Visibility="Hidden" x:Name="models_button3" Height="40" Width="180" Click="models_button3_Click" />
+        </StackPanel>
+
+        <StackPanel Name="PodModels1" Height="551" Margin="212,10,18,0" VerticalAlignment="Top" Width="180">
+            <Button Content="Galaxy S10 Plus" Visibility="Hidden" x:Name="Podmodels_button" Height="40" Width="180" Click="Podmodels_button_Click" />
+            <Button Content="Galaxy S20 Plus" Visibility="Hidden" x:Name="Podmodels_button2" Height="40" Width="180" Click="Podmodels_button2_Click" />
+            <Button Content="Galaxy S21" Visibility="Hidden" x:Name="Podmodels_button3" Height="40" Width="180" Click="Podmodels_button3_Click" />
+            <Button Content="Назад" Visibility="Hidden" x:Name="Return" Height="40" Width="180" Click="Return_Click" />
+        </StackPanel>
+
+        <StackPanel Height="551" Margin="212,10,18,0" VerticalAlignment="Top" Width="180">
+            <Button Content="iPhone XR" Visibility="Hidden" x:Name="Podmodels2_button" Height="40" Width="180" Click="Podmodels2_button_Click" />
+            <Button Content="iPhone 11" Visibility="Hidden" x:Name="Podmodels2_button2" Height="40" Width="180" Click="Podmodels2_button2_Click" />
+            <Button Content="iPhone 12" Visibility="Hidden" x:Name="Podmodels2_button3" Height="40" Width="180" Click="Podmodels2_button3_Click" />
+            <Button Content="Назад" Visibility="Hidden" x:Name="Return2" Height="40" Width="180" Click="Return2_Click" />
+        </StackPanel>
+
+        <StackPanel Height="551" Margin="212,10,18,0" VerticalAlignment="Top" Width="180">
+            <Button Content="Huawei P40" Visibility="Hidden" x:Name="Podmodels3_button" Height="40" Width="180" Click="Podmodels3_button_Click" />
+            <Button Content="Huawei P smart 2021" Visibility="Hidden" x:Name="Podmodels3_button2" Height="40" Width="180" Click="Podmodels3_button2_Click" />
+            <Button Content="Huawei Y8P" Visibility="Hidden" x:Name="Podmodels3_button3" Height="40" Width="180" Click="Podmodels3_button3_Click" />
+            <Button Content="Назад" Visibility="Hidden" x:Name="Return3" Height="40" Width="180" Click="Return3_Click" />
+        </StackPanel>
+    </Grid>
+</Window>
